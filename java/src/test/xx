@@ -1,0 +1,3 @@
+mapMethodParams.put("demo", annoMap);
+ mapMethodParams.put("writeCheckStatus", "noAnnotations");
+            mapMethodParams.put("writeCheckStatusDes", "该方法没有写注释");
